@@ -1,0 +1,2 @@
+# JobPortal
+ The Job Portal is a web application designed to connect job seekers with employers. It allows users to create profiles, upload resumes, and search for job listings based on various filters like location, industry, and experience level. Employers can post job openings, manage applications, and communicate with potential candidates. The portal features user authentication, a dashboard for both job seekers and employers, and a search functionality to enhance user experience. Built using the MERN stack, it ensures a responsive and dynamic interface for users.
